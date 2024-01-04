@@ -1,0 +1,17 @@
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\bin\Debug\net7.0\DotNet.Repository.deps.json
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\bin\Debug\net7.0\DotNet.Repository.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\bin\Debug\net7.0\DotNet.Repository.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\bin\Debug\net7.0\DotNet.Core.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\bin\Debug\net7.0\DotNet.Core.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\DotNet.Repository.csproj.AssemblyReference.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\DotNet.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\DotNet.Repository.AssemblyInfoInputs.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\DotNet.Repository.AssemblyInfo.cs
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\DotNet.Repository.csproj.CoreCompileInputs.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\DotNet.Repository.csproj.CopyComplete
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\DotNet.Repository.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\refint\DotNet.Repository.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\DotNet.Repository.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\ref\DotNet.Repository.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\bin\Debug\net7.0\DotNet.Repository.runtimeconfig.json
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\DotNet.Repository.genruntimeconfig.cache

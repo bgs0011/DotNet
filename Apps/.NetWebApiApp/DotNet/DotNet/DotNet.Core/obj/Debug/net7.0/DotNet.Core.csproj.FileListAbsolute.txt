@@ -1,0 +1,12 @@
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Core\bin\Debug\net7.0\DotNet.Core.deps.json
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Core\bin\Debug\net7.0\DotNet.Core.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Core\bin\Debug\net7.0\DotNet.Core.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Core\obj\Debug\net7.0\DotNet.Core.csproj.AssemblyReference.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Core\obj\Debug\net7.0\DotNet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Core\obj\Debug\net7.0\DotNet.Core.AssemblyInfoInputs.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Core\obj\Debug\net7.0\DotNet.Core.AssemblyInfo.cs
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Core\obj\Debug\net7.0\DotNet.Core.csproj.CoreCompileInputs.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Core\obj\Debug\net7.0\DotNet.Core.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Core\obj\Debug\net7.0\refint\DotNet.Core.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Core\obj\Debug\net7.0\DotNet.Core.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Core\obj\Debug\net7.0\ref\DotNet.Core.dll

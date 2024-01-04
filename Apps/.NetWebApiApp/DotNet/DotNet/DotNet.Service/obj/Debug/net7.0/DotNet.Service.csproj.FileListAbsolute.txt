@@ -1,0 +1,17 @@
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\bin\Debug\net7.0\DotNet.Service.deps.json
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\bin\Debug\net7.0\DotNet.Service.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\bin\Debug\net7.0\DotNet.Service.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\bin\Debug\net7.0\DotNet.Core.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\bin\Debug\net7.0\DotNet.Repository.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\bin\Debug\net7.0\DotNet.Repository.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\bin\Debug\net7.0\DotNet.Core.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\obj\Debug\net7.0\DotNet.Service.csproj.AssemblyReference.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\obj\Debug\net7.0\DotNet.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\obj\Debug\net7.0\DotNet.Service.AssemblyInfoInputs.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\obj\Debug\net7.0\DotNet.Service.AssemblyInfo.cs
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\obj\Debug\net7.0\DotNet.Service.csproj.CoreCompileInputs.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\obj\Debug\net7.0\DotNet.Service.csproj.CopyComplete
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\obj\Debug\net7.0\DotNet.Service.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\obj\Debug\net7.0\refint\DotNet.Service.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\obj\Debug\net7.0\DotNet.Service.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Service\obj\Debug\net7.0\ref\DotNet.Service.dll
