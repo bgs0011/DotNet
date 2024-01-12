@@ -1,4 +1,5 @@
 C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\bin\Debug\net7.0\DotNet.Repository.deps.json
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\bin\Debug\net7.0\DotNet.Repository.runtimeconfig.json
 C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\bin\Debug\net7.0\DotNet.Repository.dll
 C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\bin\Debug\net7.0\DotNet.Repository.pdb
 C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\bin\Debug\net7.0\DotNet.Core.dll
@@ -12,6 +13,5 @@ C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Reposito
 C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\DotNet.Repository.dll
 C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\refint\DotNet.Repository.dll
 C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\DotNet.Repository.pdb
-C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\ref\DotNet.Repository.dll
-C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\bin\Debug\net7.0\DotNet.Repository.runtimeconfig.json
 C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\DotNet.Repository.genruntimeconfig.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\DotNet\DotNet.Repository\obj\Debug\net7.0\ref\DotNet.Repository.dll

@@ -19,11 +19,11 @@ namespace DotNet.Repository.Configurations
             // 1er 1er primary key artsin.
             builder.Property(t => t.Id).UseIdentityColumn();
 
-            builder.Property(x => x.UserName).IsRequired().HasMaxLength(100);
+            builder.Property(x => x.UserName).IsRequired().HasMaxLength(200);
 
             builder.Property(x => x.Email).IsRequired().HasMaxLength(250);
 
-            builder.Property(x => x.Password).IsRequired().HasMaxLength(250);
+            builder.Property(x => x.Password).IsRequired().HasMaxLength(200);
 
         }
     }

@@ -1,0 +1,17 @@
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\bin\Debug\net6.0\WebApi.Services.deps.json
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\bin\Debug\net6.0\WebApi.Services.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\bin\Debug\net6.0\WebApi.Services.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\bin\Debug\net6.0\WebApi.Core.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\bin\Debug\net6.0\WebApi.Repository.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\bin\Debug\net6.0\WebApi.Repository.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\bin\Debug\net6.0\WebApi.Core.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\obj\Debug\net6.0\WebApi.Services.csproj.AssemblyReference.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\obj\Debug\net6.0\WebApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\obj\Debug\net6.0\WebApi.Services.AssemblyInfoInputs.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\obj\Debug\net6.0\WebApi.Services.AssemblyInfo.cs
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\obj\Debug\net6.0\WebApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\obj\Debug\net6.0\WebApi.Services.csproj.CopyComplete
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\obj\Debug\net6.0\WebApi.Services.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\obj\Debug\net6.0\refint\WebApi.Services.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\obj\Debug\net6.0\WebApi.Services.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetWebApiApp\DotNet\WebApi\WebApi\WebApi.Services\obj\Debug\net6.0\ref\WebApi.Services.dll
