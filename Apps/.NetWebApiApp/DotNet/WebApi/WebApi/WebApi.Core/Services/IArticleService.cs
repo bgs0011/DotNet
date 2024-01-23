@@ -9,6 +9,6 @@ namespace WebApi.Core.Services
 {
     public interface IArticleService : IService<Article>
     {
-
+        void SetPublisherforCreatedArticle(Publisher publisher, Article article);
     }
 }

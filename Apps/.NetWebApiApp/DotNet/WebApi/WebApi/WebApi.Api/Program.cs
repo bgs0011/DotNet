@@ -52,6 +52,7 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
 builder.Services.AddAutoMapper(typeof(MapProfile));
+
 builder.Services.AddScoped<IArticleService, ArticleService>();
 builder.Services.AddScoped<IPublisherService, PublisherService>();
 builder.Services.AddScoped<ICommentService, CommentService>();
@@ -60,8 +61,9 @@ builder.Services.AddScoped<IPublisherRepository, PublisherRepository>();
 builder.Services.AddScoped<IArticleRepository, ArticleRepository>();
 builder.Services.AddScoped<ICommentRepository, CommentRepository>();
 
-
 builder.Services.AddHttpContextAccessor();
+
+
 builder.Services.AddScoped<IJwtAuthenticationManager, JwtAuthenticationManager>();
 
 builder.Services.AddControllers().AddFluentValidation(x =>
@@ -92,7 +94,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+ 
 app.UseAuthorization();
 
 app.MapControllers();

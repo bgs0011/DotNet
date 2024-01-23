@@ -1,10 +1,17 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Razor.TagHelpers;
+using Microsoft.EntityFrameworkCore;
 using System.Security.Claims;
 using WebApi.Core.DTOs;
 using WebApi.Core.Models;
 using WebApi.Core.Services;
+using WebApi.Repository.UnitOfWorks;
+using WebApi.Services.Helpers;
 using WebApi.Services.Services;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace WebApi.Api.Controllers
 {
@@ -58,44 +65,27 @@ namespace WebApi.Api.Controllers
 
             return CreateActionResult(GlobalResultDto<NoContentDto>.Success(204));
         }
-        /*
 
         [HttpPost("Write")]
-        public async Task<IActionResult> Write(ArticleDto articleDto)
+        //[Authorize(Roles ="User")]
+        public async Task<IActionResult> WriteArticleAsync(ArticleDto articleDto)
         {
 
-            var article = await _articleService.AddAsync(new Article
+            var publisher = LoggedInUserExtensions.GetLoggedinUser();
+            Article article = await _articleService.AddAsync(new Article
             {
-                Id = articleDto.Id,
+
                 ArticleContent = articleDto.ArticleContent,
-                Publisher = ,
                 PublisherId = publisher.Id,
+                Title = articleDto.Title,
 
             });
+            await _articleService.UpdateAsync(article);
+            _articleService.SetPublisherforCreatedArticle(publisher, article);
+            var temparticleDto = _mapper.Map<ArticleDto>(article);
+            return CreateActionResult(GlobalResultDto<ArticleDto>.Success(201, temparticleDto));
 
-            //var article = await _articleService.AddAsync(_mapper.Map<Article>(articleDto));
-            var articleDtos = _mapper.Map<ArticleDto>(article);
-            return CreateActionResult(GlobalResultDto<ArticleDto>.Success(201, articleDtos));
         }
-        */
-        /*
-        
-        [HttpPost("Write")]
-        public async Task<IActionResult> Write(AuthRequestDto authDto)
-        {
-            var publisher = _publisherService.SignUp(authDto);
-            var publisherDto = _mapper.Map<PublisherDto>(publisher);
-            return CreateActionResult(GlobalResultDto<PublisherDto>.Success(201, publisherDto));
-        }
-        [HttpPost("Stories")]
-        public IActionResult Stories(AuthRequestDto authDto)
-        {
-            var result = _publisherService.Login(authDto);
-            if (result.Publisher != null)
-                return CreateActionResult(GlobalResultDto<AuthResponseDto>.Success(200, result));
-            else
-                return CreateActionResult(GlobalResultDto<AuthResponseDto>.Success(401, result));
-        }
-        */
+
     }
 }

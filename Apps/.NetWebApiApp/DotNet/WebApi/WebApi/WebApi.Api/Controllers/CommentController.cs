@@ -25,7 +25,6 @@ namespace WebApi.Api.Controllers
         }
 
         [HttpGet("{id}")]
-        //Get api/Team/3
         public async Task<IActionResult> GetById(int id)
         {
             var comment = await _commentService.GetById(id);

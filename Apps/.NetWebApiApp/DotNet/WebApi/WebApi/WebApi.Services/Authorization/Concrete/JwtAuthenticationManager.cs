@@ -16,7 +16,6 @@ namespace WebApi.Services.Authorization.Concrete
     public class JwtAuthenticationManager : IJwtAuthenticationManager
     {
         private readonly AppSettings _appSettings;
-
         public JwtAuthenticationManager(IOptions<AppSettings> appSettings)
         {
             _appSettings = appSettings.Value;

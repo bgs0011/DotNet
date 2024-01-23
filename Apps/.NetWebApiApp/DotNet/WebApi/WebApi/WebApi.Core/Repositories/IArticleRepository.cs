@@ -9,5 +9,6 @@ namespace WebApi.Core.Repositories
 {
     public interface IArticleRepository : IGenericRepository<Article>
     {
+        
     }
 }

@@ -17,7 +17,7 @@ namespace WebApi.Core.Models
         public Publisher Publisher { get; set; } // Publisher ile one to many relationship oldugunu tanımlıyor.
         public int PublisherId { get; set; } //foregin key
 
-        public ICollection<Comment> Comment { get; set; }
+        public ICollection<Comment>? Comment { get; set; }
     }
 }
 

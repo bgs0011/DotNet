@@ -11,6 +11,7 @@ using WebApi.Core.Repositories;
 using WebApi.Core.Services;
 using WebApi.Core.UnitOfWorks;
 using WebApi.Services.Authorization.Abstraction;
+using WebApi.Services.Helpers;
 
 namespace WebApi.Services.Services
 {
@@ -19,6 +20,7 @@ namespace WebApi.Services.Services
         private readonly IPublisherRepository _publisherRepository;
         private readonly IMapper _mapper;
         private readonly IJwtAuthenticationManager _jwtAuthenticationManager;
+
 
         public PublisherService(IGenericRepository<Publisher> repository, IUnitOfWork unitOfWork, IPublisherRepository publisherRepository, IMapper mapper, IJwtAuthenticationManager jwtAuthenticationManager) : base(repository, unitOfWork)
         {
@@ -79,15 +81,27 @@ namespace WebApi.Services.Services
             return publisherDto;
         }
 
+        public Publisher UpdatePublisher(Publisher publisher , AuthRequestDto authRequestDto)
+        {
+            publisher.PublisherName=authRequestDto.PublisherName;
+            publisher.Email = authRequestDto.Email;
+            publisher.Password=GeneratePasswordHash(authRequestDto.PublisherName, authRequestDto.Password);
+
+            return publisher;
+        }
+
         public AuthResponseDto Login(AuthRequestDto request)
         {
             AuthResponseDto responseDto = new AuthResponseDto();
-            PublisherDto publisher = FindPublisher(request.PublisherName, request.Password);
+            PublisherDto publisherDto = FindPublisher(request.PublisherName, request.Password);
             responseDto = _jwtAuthenticationManager.Authenticate(request.PublisherName, request.Password);
-            responseDto.Publisher = publisher;
-
+            responseDto.Publisher = publisherDto;
             return responseDto;
         }
         
+        public void SetArticleToUser(Publisher entity)
+        {
+            _publisherRepository.Update(entity);
+        }
     }
 }

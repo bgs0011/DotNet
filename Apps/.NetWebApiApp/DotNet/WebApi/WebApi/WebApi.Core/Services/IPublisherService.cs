@@ -13,5 +13,7 @@ namespace WebApi.Core.Services
         string GeneratePasswordHash(string publisherName, string password);
         PublisherDto FindPublisher(string publisherName, string password);
         AuthResponseDto Login(AuthRequestDto request);
+        void SetArticleToUser(Publisher publisher);
+        Publisher UpdatePublisher(Publisher publisher, AuthRequestDto authRequestDto);
     }
 }

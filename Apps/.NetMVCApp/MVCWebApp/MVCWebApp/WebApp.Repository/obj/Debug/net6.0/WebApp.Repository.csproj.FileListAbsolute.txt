@@ -1,0 +1,17 @@
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\bin\Debug\net6.0\WebApp.Repository.deps.json
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\bin\Debug\net6.0\WebApp.Repository.runtimeconfig.json
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\bin\Debug\net6.0\WebApp.Repository.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\bin\Debug\net6.0\WebApp.Repository.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\bin\Debug\net6.0\WebApp.Core.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\bin\Debug\net6.0\WebApp.Core.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\obj\Debug\net6.0\WebApp.Repository.csproj.AssemblyReference.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\obj\Debug\net6.0\WebApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\obj\Debug\net6.0\WebApp.Repository.AssemblyInfoInputs.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\obj\Debug\net6.0\WebApp.Repository.AssemblyInfo.cs
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\obj\Debug\net6.0\WebApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\obj\Debug\net6.0\WebApp.Repository.csproj.CopyComplete
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\obj\Debug\net6.0\WebApp.Repository.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\obj\Debug\net6.0\refint\WebApp.Repository.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\obj\Debug\net6.0\WebApp.Repository.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\obj\Debug\net6.0\WebApp.Repository.genruntimeconfig.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Repository\obj\Debug\net6.0\ref\WebApp.Repository.dll

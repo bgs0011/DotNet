@@ -1,0 +1,17 @@
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Service.deps.json
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Service.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Service.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Core.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Repository.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Repository.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Core.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.csproj.AssemblyReference.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.AssemblyInfoInputs.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.AssemblyInfo.cs
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.csproj.CopyComplete
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\obj\Debug\net6.0\refint\WebApp.Service.dll
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.pdb
+C:\Users\hacke\Desktop\Projects\Apps\.NetMVCApp\MVCWebApp\MVCWebApp\WebApp.Service\obj\Debug\net6.0\ref\WebApp.Service.dll
